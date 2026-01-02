@@ -1,4 +1,3 @@
-```markdown
 # Evanalysis Personal Site Template — Roadmap & Spec (Card + Glass + Math + CMS + Private)
 
 > 目标：做一套你自己的可复用模板（Next.js），视觉接近 Sidefolio（侧边栏 + 卡片）并升级为玻璃拟态/液态玻璃风格，同时满足：
@@ -76,7 +75,6 @@ SEO 规则：
 > 推荐：一个 Next.js 项目里做 route groups，维护成本最低。
 
 ```
-
 .
 ├─ app
 │  ├─ (public)
@@ -303,4 +301,4 @@ SEO 规则：
 
 > 你把现有仓库的目录结构（或截图）贴出来后，我可以把上面 Phase 0~5
 > 拆成更细的“Codex 任务清单”（每个任务都附具体文件路径与验收点），让你直接照着跑。
-```
+
