@@ -1,4 +1,4 @@
-# Evanalysis Personal Site Template — Roadmap & Spec (Card + Glass + Math + CMS + Private)
+# Evanalysis Personal Site Template — Roadmap & Spec (Card + Glass + Math + CMS + Private) branches
 
 > 目标：做一套你自己的可复用模板（Next.js），视觉接近 Sidefolio（侧边栏 + 卡片）并升级为玻璃拟态/液态玻璃风格，同时满足：
 > - SEO 友好
