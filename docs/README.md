@@ -45,10 +45,14 @@
    - 常见问题和解决方案
    - 性能优化
    - 故障排除和检查清单
-
+7. **[DEMO_SETUP.md](./DEMO_SETUP.md)** - 创建演示网站实例 ⭐ **新！**
+   - 方案对比（两种方式）
+   - 设置 GitHub Template 仓库
+   - 自定义演示内容
+   - 完整检查清单
 ### 🔐 私密区功能
 
-7. **[PRIVATE_DIARY_GUIDE.md](./PRIVATE_DIARY_GUIDE.md)** - 私密日记使用指南
+8. **[PRIVATE_DIARY_GUIDE.md](./PRIVATE_DIARY_GUIDE.md)** - 私密日记使用指南
    - 登录方式 (Passkey / OAuth)
    - 日记管理
    - 数据导出和备份
@@ -57,7 +61,7 @@
 
 ### 💾 数据库配置
 
-8. **[DATABASE_CONFIG.md](./DATABASE_CONFIG.md)** - 详细数据库配置
+9. **[DATABASE_CONFIG.md](./DATABASE_CONFIG.md)** - 详细数据库配置
    - Firebase Firestore 配置
    - Supabase 配置
    - MongoDB 配置
@@ -66,7 +70,7 @@
 
 ### 🎛️ 后台管理
 
-9. **[BACKEND_CONTROL.md](./BACKEND_CONTROL.md)** - 内容管理和后台控制
+10. **[BACKEND_CONTROL.md](./BACKEND_CONTROL.md)** - 内容管理和后台控制
    - TinaCMS 可视化编辑器
    - 博客、笔记、项目管理
    - 权限控制
