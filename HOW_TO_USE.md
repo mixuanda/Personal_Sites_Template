@@ -36,7 +36,19 @@ npm run dev
 
 ---
 
-### 🔐 我想要私人日记功能
+### � 我想部署到 Vercel
+
+**推荐**: 查看 [VERCEL_DEPLOYMENT.md](./docs/VERCEL_DEPLOYMENT.md) - Vercel 部署完整指南
+- 快速部署（3步）
+- 常见问题解决
+- 性能优化
+- 环境变量配置
+
+**时间**: 10-30分钟
+
+---
+
+### �🔐 我想要私人日记功能
 
 **推荐**: 按顺序看：
 1. [DATABASE_CONFIG.md](./docs/DATABASE_CONFIG.md) - 设置数据库（Firebase/Supabase/MongoDB）

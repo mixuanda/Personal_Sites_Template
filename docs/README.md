@@ -37,9 +37,18 @@
    - 内容格式转换
    - 迁移检查清单
 
+### � 部署
+
+6. **[VERCEL_DEPLOYMENT.md](./VERCEL_DEPLOYMENT.md)** - Vercel 部署完整指南 ⭐ **新！**
+   - 快速部署（3步）
+   - 详细配置说明
+   - 常见问题和解决方案
+   - 性能优化
+   - 故障排除和检查清单
+
 ### 🔐 私密区功能
 
-3. **[PRIVATE_DIARY_GUIDE.md](./PRIVATE_DIARY_GUIDE.md)** - 私密日记使用指南
+7. **[PRIVATE_DIARY_GUIDE.md](./PRIVATE_DIARY_GUIDE.md)** - 私密日记使用指南
    - 登录方式 (Passkey / OAuth)
    - 日记管理
    - 数据导出和备份
@@ -48,7 +57,7 @@
 
 ### 💾 数据库配置
 
-4. **[DATABASE_CONFIG.md](./DATABASE_CONFIG.md)** - 详细数据库配置
+8. **[DATABASE_CONFIG.md](./DATABASE_CONFIG.md)** - 详细数据库配置
    - Firebase Firestore 配置
    - Supabase 配置
    - MongoDB 配置
@@ -57,7 +66,7 @@
 
 ### 🎛️ 后台管理
 
-5. **[BACKEND_CONTROL.md](./BACKEND_CONTROL.md)** - 内容管理和后台控制
+9. **[BACKEND_CONTROL.md](./BACKEND_CONTROL.md)** - 内容管理和后台控制
    - TinaCMS 可视化编辑器
    - 博客、笔记、项目管理
    - 权限控制

@@ -196,11 +196,15 @@ npm i -g vercel
 vercel
 ```
 
+👉 **详细说明请看**: [VERCEL_DEPLOYMENT.md](./VERCEL_DEPLOYMENT.md) - 包含常见问题和解决方案
+
 ### 部署到其他平台
 
-- **Netlify**: https://netlify.com
-- **GitHub Pages**: 配置 `next.config.ts`
-- **自托管**: `npm run build && npm start`
+- **Netlify**: 类似 Vercel，也是一键部署
+- **GitHub Pages**: 免费但需要更多配置
+- **自托管**: 最灵活但需要服务器知识
+
+更多部署信息见 [VERCEL_DEPLOYMENT.md](./VERCEL_DEPLOYMENT.md)。
 
 ---
 
